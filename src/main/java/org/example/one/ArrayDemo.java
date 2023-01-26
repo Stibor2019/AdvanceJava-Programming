@@ -24,18 +24,18 @@ public class ArrayDemo {
         }
         //numbers[3]=120;//
         System.out.println("Dinamički niz:");
-        DynamicArray dynamicArray = new DynamicArray();
-        dynamicArray.add(23);
-        dynamicArray.add(24);
-        dynamicArray.add(123);
-        dynamicArray.add(120);
-        for (int number : dynamicArray) {
+        IntegerArray integerArray = new IntegerArray();
+        integerArray.add(23);
+        integerArray.add(24);
+        integerArray.add(123);
+        integerArray.add(120);
+        for (int number : integerArray) {
             System.out.println(number);
         }
-        DynamicArray dynamicArray1 = new DynamicArray();
-        dynamicArray1.add(1000);
-        dynamicArray1.add(2000);
-        for (int number : dynamicArray1) {
+        IntegerArray integerArray1 = new IntegerArray();
+        integerArray1.add(1000);
+        integerArray1.add(2000);
+        for (int number : integerArray1) {
             System.out.println(number);
         }
     }

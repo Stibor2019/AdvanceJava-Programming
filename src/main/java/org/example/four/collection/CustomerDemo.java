@@ -1,6 +1,5 @@
 package org.example.four.collection;
 
-import org.example.four.collection.CustomerDao;
 import org.example.three.jdbc.Customer;
 
 import java.util.List;

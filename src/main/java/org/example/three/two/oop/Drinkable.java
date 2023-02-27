@@ -1,4 +1,4 @@
-package org.example.two.oop;
+package org.example.three.two.oop;
 
 public interface Drinkable {
 

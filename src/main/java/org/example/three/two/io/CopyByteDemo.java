@@ -1,4 +1,4 @@
-package org.example.two.io;
+package org.example.three.two.io;
 //sadržaj fajla se može kopirati bajt po bajt
 //java.io.fileinpustream klasa
 //java-1,7 try catch finnally -: try with resource

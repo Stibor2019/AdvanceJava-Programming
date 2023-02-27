@@ -1,6 +1,6 @@
 package org.example.four.generic;
 
-import org.example.two.collection.Person;
+import org.example.three.two.collection.Person;
 
 public class BoxDemo {
     public static void main(String[] args){

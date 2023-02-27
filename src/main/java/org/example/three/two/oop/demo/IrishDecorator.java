@@ -1,7 +1,6 @@
-package org.example.two.oop.demo;
+package org.example.three.two.oop.demo;
 
-import org.example.two.oop.Beverage;
-import org.example.two.oop.MilkDecorator;
+import org.example.three.two.oop.Beverage;
 
 public class IrishDecorator extends Beverage {
     private  Beverage beverage;

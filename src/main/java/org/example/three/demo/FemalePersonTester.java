@@ -1,7 +1,7 @@
 package org.example.three.demo;
 
 import org.example.one.Gender;
-import org.example.two.collection.Person;
+import org.example.three.two.collection.Person;
 
 public class FemalePersonTester implements PersonsTester{
     @Override

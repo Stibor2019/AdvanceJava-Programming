@@ -2,12 +2,7 @@
 package org.example.three.demo;
 
 import org.example.one.Gender;
-import org.example.two.collection.Person;
-import org.example.two.collection.PersonCsvReader;
-
-import java.util.List;
-import java.util.function.Consumer;
-import java.util.function.Predicate;
+import org.example.three.two.collection.Person;
 
 public class CSVDemo {
     public static <PersonTester> void main(String[] args) {
